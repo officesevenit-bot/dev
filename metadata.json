@@ -1,0 +1,7 @@
+{
+  "name": "TaskAlarm - Daily Task & Event Alarms",
+  "description": "Trigger real-time alarms, sound alerts, and countdowns for Google Calendar tasks and events due today.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
